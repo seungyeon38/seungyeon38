@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+## Hi there 👋
 **You can see my portfolio here** 😊 </br>
 ▶️ https://peach-minnow-c5e.notion.site/5cb8535774174fc0b6b57b4883be697c
 
@@ -9,7 +9,7 @@
 
 <hr/>
 
-### 🔥Tech Stack🔥
+## 🔥Tech Stack🔥
 
 <img src="https://img.shields.io/badge/JAVA-696969?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
