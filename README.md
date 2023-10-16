@@ -40,7 +40,6 @@
 
 <hr/>
 
-![Seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon38&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeon38&layout=compact&theme=monokai)
 
 </div>
